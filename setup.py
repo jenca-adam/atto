@@ -1,6 +1,6 @@
 import setuptools
 setuptools.setup(name='atto',
-                version='1.1.7',
+                version='1.1.8',
                 description='Simple curses text editor',
                 long_description_content_type='text/markdown',
                 long_description=
@@ -53,6 +53,8 @@ Patched version
 Added LICENSE file
 #### 1.1.7
 Minor bug fixes
+#### 1.1.8
+Added homepage
 """,
                 install_requires=['cursor'],
                 packages=['atto'],
@@ -70,7 +72,7 @@ Minor bug fixes
                     },
                 author='Adam Jenca',
                 author_email='jenca.adam@gmail.com',
-                url='https://pypi.org/project/atto/',
+                url='https://github.com/jenca-adam/atto/',
                 )
 
 

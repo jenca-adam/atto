@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: atto
-Version: 1.1.7
+Version: 1.1.8
 Summary: Simple curses text editor
-Home-page: https://pypi.org/project/atto/
+Home-page: https://github.com/jenca-adam/atto/
 Author: Adam Jenca
 Author-email: jenca.adam@gmail.com
 License: UNKNOWN
@@ -66,5 +66,7 @@ Patched version
 Added LICENSE file
 #### 1.1.7
 Minor bug fixes
+#### 1.1.8
+Added homepage
 
 

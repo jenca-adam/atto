@@ -46,3 +46,5 @@ Patched version
 Added LICENSE file
 #### 1.1.7
 Minor bug fixes
+#### 1.1.8
+Added homepage
